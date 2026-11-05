@@ -5,8 +5,8 @@
     "objections.json": "5ee9375be78fe5fc1c97a7da21fa8bc576a4d216b286036e0503f8d1ba544577",
     "venues.json": "9292ea93272ca9e6a60b8af3906e6f87ae9a46c46a4be5a5214cbee50b63d35a"
   },
-  "previous_manifest_sha256": "3769efcd619d1f6cb54134b984684eb42ca8dfec2eec01f6180c9d159ae30298",
+  "previous_manifest_sha256": "2b8ffa1c1ac0026756e82915ff47dc401e4c9ae5ba8f8b585e5025050e05ee6e",
   "public_key_sha256": "908b89f53e857610a1b073d2ee85bd65bd5592ea53b75edaa582a764d69052eb",
   "schema": 1,
-  "signed_at": "2026-11-05T10:22:03+00:00"
+  "signed_at": "2026-11-05T10:47:25+00:00"
 }
