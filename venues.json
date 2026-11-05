@@ -1,0 +1,145 @@
+[
+  {
+    "id": "tsvllc",
+    "name": "TSV LLC",
+    "short": "TSV LLC",
+    "operator": "TSV LLC (Puerto Rico); protocol by Obsidian Software LLC",
+    "ledger": "Canton Network",
+    "website": "https://www.tokenizedstockvenue.com/",
+    "sec_list_date": "2026-09-23",
+    "latest_notice_date": "2026-11-04",
+    "latest_version": "1.5",
+    "objections": 0,
+    "listed": [
+      "CNTN"
+    ],
+    "versions": [
+      {
+        "date": "2026-11-04",
+        "version": "1.5",
+        "url": "https://www.tokenizedstockvenue.com/notice.html",
+        "sha256": "fb672c0f2ae18a0b7f99965db06101b8ef945471659f6e9f54c284b9d1cd7935"
+      }
+    ]
+  },
+  {
+    "id": "okxice",
+    "name": "OKXICE TSV",
+    "short": "OKXICE",
+    "operator": "OKXICE LLC (joint venture of Intercontinental Exchange and OKX)",
+    "ledger": "X Layer (Uniswap v4 hook pools)",
+    "website": "https://www.okx.com/en-us/okxicetsv",
+    "sec_list_date": "2026-10-04",
+    "latest_notice_date": "2026-11-04",
+    "latest_version": null,
+    "objections": 62,
+    "listed": [],
+    "versions": [
+      {
+        "date": "2026-11-04",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.04.pdf",
+        "sha256": "059d08473a87edb737d0a62ed2611e7e4a3c507353207600fc3147d9fd690e8c"
+      },
+      {
+        "date": "2026-11-03",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.03.pdf",
+        "sha256": "39ccfb6c47b82c48072561349ca4fe271fca0729dd7b918d4d211c8be039a697"
+      },
+      {
+        "date": "2026-11-02",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.02.pdf",
+        "sha256": "c21e2cfd74f46d827da9eacd2407d49c20255a8ac4d88e1ec831ae36f4a026f5"
+      },
+      {
+        "date": "2026-10-30",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf",
+        "sha256": "c09fd91729b530085c969ec13d741d6fa4bf6002cef38668abf25bd1e8a96385"
+      },
+      {
+        "date": "2026-10-28",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.28.pdf",
+        "sha256": "97f41f971f26533e9a76ab6ad83c763bf3382fc4acdfa548a6764a42a80b859d"
+      },
+      {
+        "date": "2026-10-27",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.27.pdf",
+        "sha256": "8baa0cbaf9896de0a74deba8b3a03fdebe6e3614548dda995014c5a4ff2ec466"
+      },
+      {
+        "date": "2026-10-26",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.26.pdf",
+        "sha256": "52619c04d315ef0a72a324b6409e9bf8521e17005fb2e785c769ae1c635fd355"
+      },
+      {
+        "date": "2026-10-23",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.23.pdf",
+        "sha256": "ba260efcd149ce7edc02a97d5e314117040090d21b6b6f71edc67ab0c53d0342"
+      },
+      {
+        "date": "2026-10-19",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.19.pdf",
+        "sha256": "9010b1d530a9b696f958b6612f91f10bfcae9f9ddbd3f0b7c817d96490e7702e"
+      },
+      {
+        "date": "2026-10-15",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/files/2610/F085D8D65135AB9C.pdf",
+        "sha256": "90bdaebff3f61eddce1f21f24ccb47fb78371669c8c9077a7e91c894e77c3e4e"
+      },
+      {
+        "date": "2026-10-08",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/files/2610/BF2EE6B20824F14D.pdf",
+        "sha256": "3ff433ecb1517053282d191c234fdb0677df23ac9e833d4fc56b0f22b19f7362"
+      },
+      {
+        "date": "2026-10-04",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/files/2610/885D864537A8DF6D.pdf",
+        "sha256": "e2186a8d3c4bedee7a0ddfa34bb67e5b84da4a966327ca55d7db106b10ebf5d0"
+      },
+      {
+        "date": "2026-10-04",
+        "version": null,
+        "url": "https://www.okx.com/cdn/assets/files/2610/798CC1267CB56FB2.pdf",
+        "sha256": "49b60eb687b6873715c68468e1aa837419f72300df7bcf42f52b3db8ca825452"
+      }
+    ]
+  },
+  {
+    "id": "perpetuals",
+    "name": "Kephas Corporation d/b/a Perpetuals.com",
+    "short": "Perpetuals.com",
+    "operator": "Kephas Corporation",
+    "ledger": "Kronos X Public (Ethereum-compatible L2)",
+    "website": "https://tsv.perpetuals.com/",
+    "sec_list_date": "2026-10-14",
+    "latest_notice_date": "2026-10-27",
+    "latest_version": "2.0",
+    "objections": 1,
+    "listed": [],
+    "versions": [
+      {
+        "date": "2026-10-27",
+        "version": "2.0",
+        "url": "https://tsv.perpetuals.com/20261027-Perpetuals-com-Group-TSV-Exemption-Notice.pdf",
+        "sha256": "5f68fab8d8ca7316f1be1eefac8088260fc0bb8af9a6a5a190655f6407e1f8fa"
+      },
+      {
+        "date": "2026-10-14",
+        "version": "1.0",
+        "url": "https://tsv.perpetuals.com/tsv-notice-2026-10-14-v1.0.pdf",
+        "sha256": "a0b051839e9e7066022f8f22e2e824d9c1e1a06086e4276f950f78c286eab8ff"
+      }
+    ]
+  }
+]

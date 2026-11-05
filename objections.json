@@ -1,0 +1,1192 @@
+{
+  "generated_at": "2026-11-05T05:09:02Z",
+  "newest_notice": "2026-11-04",
+  "companies": [
+    {
+      "company": "The Goldman Sachs Group, Inc.",
+      "tickers": [
+        "GS"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-19",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.19.pdf"
+        },
+        {
+          "venue": "perpetuals",
+          "venue_name": "Perpetuals.com",
+          "first_listed": "2026-10-27",
+          "in_latest_notice": true,
+          "source": "https://tsv.perpetuals.com/20261027-Perpetuals-com-Group-TSV-Exemption-Notice.pdf"
+        }
+      ],
+      "earliest": "2026-10-19",
+      "tokens": 5,
+      "chains": 7
+    },
+    {
+      "company": "Adobe Inc.",
+      "tickers": [
+        "ADBE"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-27",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.27.pdf"
+        }
+      ],
+      "earliest": "2026-10-27",
+      "tokens": 6,
+      "chains": 8
+    },
+    {
+      "company": "Advanced Micro Devices, Inc.",
+      "tickers": [
+        "AMD"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-27",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.27.pdf"
+        }
+      ],
+      "earliest": "2026-10-27",
+      "tokens": 9,
+      "chains": 10
+    },
+    {
+      "company": "Alphabet Inc.",
+      "tickers": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-19",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.19.pdf"
+        }
+      ],
+      "earliest": "2026-10-19",
+      "tokens": 13,
+      "chains": 15
+    },
+    {
+      "company": "Amazon.com, Inc.",
+      "tickers": [
+        "AMZN"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-02",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.02.pdf"
+        }
+      ],
+      "earliest": "2026-11-02",
+      "tokens": 9,
+      "chains": 12
+    },
+    {
+      "company": "Apple Inc.",
+      "tickers": [
+        "AAPL"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-03",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.03.pdf"
+        }
+      ],
+      "earliest": "2026-11-03",
+      "tokens": 10,
+      "chains": 12
+    },
+    {
+      "company": "Applied Digital Corporation",
+      "tickers": [
+        "APLD"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-08",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/files/2610/BF2EE6B20824F14D.pdf"
+        }
+      ],
+      "earliest": "2026-10-08",
+      "tokens": 4,
+      "chains": 8
+    },
+    {
+      "company": "Applied Materials, Inc.",
+      "tickers": [
+        "AMAT"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-27",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.27.pdf"
+        }
+      ],
+      "earliest": "2026-10-27",
+      "tokens": 4,
+      "chains": 6
+    },
+    {
+      "company": "Applied Optoelectronics, Inc.",
+      "tickers": [
+        "AAOI"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-15",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/files/2610/F085D8D65135AB9C.pdf"
+        }
+      ],
+      "earliest": "2026-10-15",
+      "tokens": 4,
+      "chains": 6
+    },
+    {
+      "company": "AppLovin Corporation",
+      "tickers": [
+        "APP"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-08",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/files/2610/BF2EE6B20824F14D.pdf"
+        }
+      ],
+      "earliest": "2026-10-08",
+      "tokens": 5,
+      "chains": 6
+    },
+    {
+      "company": "Arcos Dorados Holdings Inc.",
+      "tickers": [
+        "ARCO"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-28",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.28.pdf"
+        }
+      ],
+      "earliest": "2026-10-28",
+      "tokens": 0,
+      "chains": 0
+    },
+    {
+      "company": "Arm Holdings plc",
+      "tickers": [
+        "ARM"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-23",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.23.pdf"
+        }
+      ],
+      "earliest": "2026-10-23",
+      "tokens": 6,
+      "chains": 9
+    },
+    {
+      "company": "Bloom Energy Corporation",
+      "tickers": [
+        "BE"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 5,
+      "chains": 7
+    },
+    {
+      "company": "Broadcom Inc.",
+      "tickers": [
+        "AVGO"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-15",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/files/2610/F085D8D65135AB9C.pdf"
+        }
+      ],
+      "earliest": "2026-10-15",
+      "tokens": 9,
+      "chains": 11
+    },
+    {
+      "company": "Carnival Corporation",
+      "tickers": [
+        "CCL"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-28",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.28.pdf"
+        }
+      ],
+      "earliest": "2026-10-28",
+      "tokens": 3,
+      "chains": 5
+    },
+    {
+      "company": "Caterpillar Inc.",
+      "tickers": [
+        "CAT"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-19",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.19.pdf"
+        }
+      ],
+      "earliest": "2026-10-19",
+      "tokens": 2,
+      "chains": 6
+    },
+    {
+      "company": "Cerebras Systems Inc.",
+      "tickers": [
+        "CBRS"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-08",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/files/2610/BF2EE6B20824F14D.pdf"
+        }
+      ],
+      "earliest": "2026-10-08",
+      "tokens": 4,
+      "chains": 6
+    },
+    {
+      "company": "Cisco Systems, Inc.",
+      "tickers": [
+        "CSCO"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-23",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.23.pdf"
+        }
+      ],
+      "earliest": "2026-10-23",
+      "tokens": 6,
+      "chains": 9
+    },
+    {
+      "company": "CoreWeave, Inc.",
+      "tickers": [
+        "CRWV"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-15",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/files/2610/F085D8D65135AB9C.pdf"
+        }
+      ],
+      "earliest": "2026-10-15",
+      "tokens": 5,
+      "chains": 8
+    },
+    {
+      "company": "Corning Incorporated",
+      "tickers": [
+        "GLW"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 4,
+      "chains": 6
+    },
+    {
+      "company": "Costco Wholesale Corporation",
+      "tickers": [
+        "COST"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 4,
+      "chains": 8
+    },
+    {
+      "company": "CrowdStrike Holdings, Inc.",
+      "tickers": [
+        "CRWD"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 5,
+      "chains": 6
+    },
+    {
+      "company": "Dell Technologies Inc.",
+      "tickers": [
+        "DELL"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-27",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.27.pdf"
+        }
+      ],
+      "earliest": "2026-10-27",
+      "tokens": 5,
+      "chains": 8
+    },
+    {
+      "company": "Eli Lilly and Company",
+      "tickers": [
+        "LLY"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-28",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.28.pdf"
+        }
+      ],
+      "earliest": "2026-10-28",
+      "tokens": 8,
+      "chains": 10
+    },
+    {
+      "company": "GE Vernova Inc.",
+      "tickers": [
+        "GEV"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-03",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.03.pdf"
+        }
+      ],
+      "earliest": "2026-11-03",
+      "tokens": 5,
+      "chains": 8
+    },
+    {
+      "company": "Hewlett Packard Enterprise Company",
+      "tickers": [
+        "HPE"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 4,
+      "chains": 6
+    },
+    {
+      "company": "Intel Corporation",
+      "tickers": [
+        "INTC"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-26",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.26.pdf"
+        }
+      ],
+      "earliest": "2026-10-26",
+      "tokens": 10,
+      "chains": 11
+    },
+    {
+      "company": "International Business Machines Corporation",
+      "tickers": [
+        "IBM"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-26",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.26.pdf"
+        }
+      ],
+      "earliest": "2026-10-26",
+      "tokens": 7,
+      "chains": 9
+    },
+    {
+      "company": "Intuit Inc.",
+      "tickers": [
+        "INTU"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-23",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.23.pdf"
+        }
+      ],
+      "earliest": "2026-10-23",
+      "tokens": 3,
+      "chains": 6
+    },
+    {
+      "company": "IonQ, Inc.",
+      "tickers": [
+        "IONQ"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-26",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.26.pdf"
+        }
+      ],
+      "earliest": "2026-10-26",
+      "tokens": 5,
+      "chains": 9
+    },
+    {
+      "company": "IREN Limited",
+      "tickers": [
+        "IREN"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 5,
+      "chains": 8
+    },
+    {
+      "company": "JPMorgan Chase & Co.",
+      "tickers": [
+        "JPM"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-27",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.27.pdf"
+        }
+      ],
+      "earliest": "2026-10-27",
+      "tokens": 6,
+      "chains": 10
+    },
+    {
+      "company": "Lam Research Corporation",
+      "tickers": [
+        "LRCX"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-02",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.02.pdf"
+        }
+      ],
+      "earliest": "2026-11-02",
+      "tokens": 3,
+      "chains": 6
+    },
+    {
+      "company": "Marvell Technology, Inc.",
+      "tickers": [
+        "MRVL"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-23",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.23.pdf"
+        }
+      ],
+      "earliest": "2026-10-23",
+      "tokens": 9,
+      "chains": 9
+    },
+    {
+      "company": "McDonald’s Corporation",
+      "tickers": [
+        "MCD"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-19",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.19.pdf"
+        }
+      ],
+      "earliest": "2026-10-19",
+      "tokens": 5,
+      "chains": 7
+    },
+    {
+      "company": "Micron Technology, Inc.",
+      "tickers": [
+        "MU"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 7,
+      "chains": 10
+    },
+    {
+      "company": "Microsoft Corporation",
+      "tickers": [
+        "MSFT"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-19",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.19.pdf"
+        }
+      ],
+      "earliest": "2026-10-19",
+      "tokens": 10,
+      "chains": 15
+    },
+    {
+      "company": "Moderna, Inc.",
+      "tickers": [
+        "MRNA"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-23",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.23.pdf"
+        }
+      ],
+      "earliest": "2026-10-23",
+      "tokens": 8,
+      "chains": 14
+    },
+    {
+      "company": "Nebius Group N.V.",
+      "tickers": [
+        "NBIS"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-04",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.04.pdf"
+        }
+      ],
+      "earliest": "2026-11-04",
+      "tokens": 5,
+      "chains": 8
+    },
+    {
+      "company": "Netflix, Inc.",
+      "tickers": [
+        "NFLX"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-02",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.02.pdf"
+        }
+      ],
+      "earliest": "2026-11-02",
+      "tokens": 7,
+      "chains": 9
+    },
+    {
+      "company": "NIKE, Inc.",
+      "tickers": [
+        "NKE"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 5,
+      "chains": 7
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "tickers": [
+        "NVDA"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 12,
+      "chains": 18
+    },
+    {
+      "company": "Oracle Corporation",
+      "tickers": [
+        "ORCL"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-26",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.26.pdf"
+        }
+      ],
+      "earliest": "2026-10-26",
+      "tokens": 8,
+      "chains": 10
+    },
+    {
+      "company": "Palo Alto Networks, Inc.",
+      "tickers": [
+        "PANW"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 5,
+      "chains": 8
+    },
+    {
+      "company": "Qualcomm Incorporated",
+      "tickers": [
+        "QCOM"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-19",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.19.pdf"
+        }
+      ],
+      "earliest": "2026-10-19",
+      "tokens": 4,
+      "chains": 6
+    },
+    {
+      "company": "Reddit, Inc.",
+      "tickers": [
+        "RDDT"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 7,
+      "chains": 9
+    },
+    {
+      "company": "Rocket Lab Corporation",
+      "tickers": [
+        "RKLB"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-08",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/files/2610/BF2EE6B20824F14D.pdf"
+        }
+      ],
+      "earliest": "2026-10-08",
+      "tokens": 8,
+      "chains": 9
+    },
+    {
+      "company": "Sandisk Corporation",
+      "tickers": [
+        "SNDK"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-27",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.27.pdf"
+        }
+      ],
+      "earliest": "2026-10-27",
+      "tokens": 9,
+      "chains": 11
+    },
+    {
+      "company": "ServiceNow, Inc.",
+      "tickers": [
+        "NOW"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-04",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.04.pdf"
+        }
+      ],
+      "earliest": "2026-11-04",
+      "tokens": 4,
+      "chains": 8
+    },
+    {
+      "company": "SoFi Technologies, Inc.",
+      "tickers": [
+        "SOFI"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-02",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.02.pdf"
+        }
+      ],
+      "earliest": "2026-11-02",
+      "tokens": 3,
+      "chains": 6
+    },
+    {
+      "company": "Space Exploration Technologies Corp.",
+      "tickers": [
+        "SPCX"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-02",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.02.pdf"
+        }
+      ],
+      "earliest": "2026-11-02",
+      "tokens": 11,
+      "chains": 12
+    },
+    {
+      "company": "Tesla, Inc.",
+      "tickers": [
+        "TSLA"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-02",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.02.pdf"
+        }
+      ],
+      "earliest": "2026-11-02",
+      "tokens": 11,
+      "chains": 15
+    },
+    {
+      "company": "The Boeing Company",
+      "tickers": [
+        "BA"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-04",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.04.pdf"
+        }
+      ],
+      "earliest": "2026-11-04",
+      "tokens": 4,
+      "chains": 8
+    },
+    {
+      "company": "The Cigna Group",
+      "tickers": [
+        "CI"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-28",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.28.pdf"
+        }
+      ],
+      "earliest": "2026-10-28",
+      "tokens": 1,
+      "chains": 2
+    },
+    {
+      "company": "The Coca-Cola Company",
+      "tickers": [
+        "KO"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-27",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.27.pdf"
+        }
+      ],
+      "earliest": "2026-10-27",
+      "tokens": 4,
+      "chains": 9
+    },
+    {
+      "company": "The Home Depot, Inc.",
+      "tickers": [
+        "HD"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-11-03",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.03.pdf"
+        }
+      ],
+      "earliest": "2026-11-03",
+      "tokens": 4,
+      "chains": 9
+    },
+    {
+      "company": "UnitedHealth Group Incorporated",
+      "tickers": [
+        "UNH"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-15",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/files/2610/F085D8D65135AB9C.pdf"
+        }
+      ],
+      "earliest": "2026-10-15",
+      "tokens": 4,
+      "chains": 8
+    },
+    {
+      "company": "USA Rare Earth, Inc.",
+      "tickers": [
+        "USAR"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-30",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.30.pdf"
+        }
+      ],
+      "earliest": "2026-10-30",
+      "tokens": 4,
+      "chains": 6
+    },
+    {
+      "company": "Verizon Communications Inc.",
+      "tickers": [
+        "VZ"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-15",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/files/2610/F085D8D65135AB9C.pdf"
+        }
+      ],
+      "earliest": "2026-10-15",
+      "tokens": 2,
+      "chains": 5
+    },
+    {
+      "company": "Walmart Inc.",
+      "tickers": [
+        "WMT"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-28",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.28.pdf"
+        }
+      ],
+      "earliest": "2026-10-28",
+      "tokens": 4,
+      "chains": 9
+    },
+    {
+      "company": "Wells Fargo & Company",
+      "tickers": [
+        "WFC"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-23",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.23.pdf"
+        }
+      ],
+      "earliest": "2026-10-23",
+      "tokens": 2,
+      "chains": 5
+    },
+    {
+      "company": "Western Digital Corporation",
+      "tickers": [
+        "WDC"
+      ],
+      "ticker_source": "stated in notice",
+      "venues": [
+        {
+          "venue": "okxice",
+          "venue_name": "OKXICE",
+          "first_listed": "2026-10-19",
+          "in_latest_notice": true,
+          "source": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.19.pdf"
+        }
+      ],
+      "earliest": "2026-10-19",
+      "tokens": 6,
+      "chains": 8
+    }
+  ]
+}
