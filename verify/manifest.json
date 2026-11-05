@@ -2,11 +2,11 @@
   "files": {
     "feed.xml": "b5b773431aad717cb31565f096a76ba90e6c21209aa2fe68ddee45240532653a",
     "objections.csv": "f2c9c7fe3df8a50eec0298a348164c4c2a7dd20789e3d1b36e704bf49b54d3a4",
-    "objections.json": "5ee9375be78fe5fc1c97a7da21fa8bc576a4d216b286036e0503f8d1ba544577",
-    "venues.json": "9292ea93272ca9e6a60b8af3906e6f87ae9a46c46a4be5a5214cbee50b63d35a"
+    "objections.json": "e9ec90fa47b8d05e8c3656ef04671fff447ddd159e771c1a57aa81429477635b",
+    "venues.json": "0a1f2a41336bba63204ab5eae8871def62088b1228b25e75ae8979e39e98b3db"
   },
-  "previous_manifest_sha256": "2b8ffa1c1ac0026756e82915ff47dc401e4c9ae5ba8f8b585e5025050e05ee6e",
+  "previous_manifest_sha256": "e6616b3656ec3791bacb408b81346d77a2eea4ce1b7ed033e0b3182a614f814c",
   "public_key_sha256": "908b89f53e857610a1b073d2ee85bd65bd5592ea53b75edaa582a764d69052eb",
   "schema": 1,
-  "signed_at": "2026-11-05T10:47:25+00:00"
+  "signed_at": "2026-11-05T12:33:09+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:09:02Z",
+  "generated_at": "2026-11-05T12:03:08Z",
   "newest_notice": "2026-11-04",
   "companies": [
     {
@@ -26,7 +26,8 @@
       ],
       "earliest": "2026-10-19",
       "tokens": 5,
-      "chains": 7
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "Adobe Inc.",
@@ -45,7 +46,8 @@
       ],
       "earliest": "2026-10-27",
       "tokens": 6,
-      "chains": 8
+      "chains": 13,
+      "issuer_halted": []
     },
     {
       "company": "Advanced Micro Devices, Inc.",
@@ -64,7 +66,8 @@
       ],
       "earliest": "2026-10-27",
       "tokens": 9,
-      "chains": 10
+      "chains": 13,
+      "issuer_halted": []
     },
     {
       "company": "Alphabet Inc.",
@@ -84,7 +87,8 @@
       ],
       "earliest": "2026-10-19",
       "tokens": 13,
-      "chains": 15
+      "chains": 16,
+      "issuer_halted": []
     },
     {
       "company": "Amazon.com, Inc.",
@@ -103,7 +107,8 @@
       ],
       "earliest": "2026-11-02",
       "tokens": 9,
-      "chains": 12
+      "chains": 13,
+      "issuer_halted": []
     },
     {
       "company": "Apple Inc.",
@@ -122,7 +127,8 @@
       ],
       "earliest": "2026-11-03",
       "tokens": 10,
-      "chains": 12
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "Applied Digital Corporation",
@@ -140,8 +146,9 @@
         }
       ],
       "earliest": "2026-10-08",
-      "tokens": 4,
-      "chains": 8
+      "tokens": 5,
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "Applied Materials, Inc.",
@@ -159,8 +166,9 @@
         }
       ],
       "earliest": "2026-10-27",
-      "tokens": 4,
-      "chains": 6
+      "tokens": 5,
+      "chains": 10,
+      "issuer_halted": []
     },
     {
       "company": "Applied Optoelectronics, Inc.",
@@ -178,8 +186,9 @@
         }
       ],
       "earliest": "2026-10-15",
-      "tokens": 4,
-      "chains": 6
+      "tokens": 6,
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "AppLovin Corporation",
@@ -198,7 +207,8 @@
       ],
       "earliest": "2026-10-08",
       "tokens": 5,
-      "chains": 6
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "Arcos Dorados Holdings Inc.",
@@ -217,7 +227,8 @@
       ],
       "earliest": "2026-10-28",
       "tokens": 0,
-      "chains": 0
+      "chains": 0,
+      "issuer_halted": []
     },
     {
       "company": "Arm Holdings plc",
@@ -235,8 +246,9 @@
         }
       ],
       "earliest": "2026-10-23",
-      "tokens": 6,
-      "chains": 9
+      "tokens": 7,
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "Bloom Energy Corporation",
@@ -254,8 +266,9 @@
         }
       ],
       "earliest": "2026-10-30",
-      "tokens": 5,
-      "chains": 7
+      "tokens": 6,
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "Broadcom Inc.",
@@ -273,8 +286,9 @@
         }
       ],
       "earliest": "2026-10-15",
-      "tokens": 9,
-      "chains": 11
+      "tokens": 8,
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "Carnival Corporation",
@@ -293,7 +307,8 @@
       ],
       "earliest": "2026-10-28",
       "tokens": 3,
-      "chains": 5
+      "chains": 3,
+      "issuer_halted": []
     },
     {
       "company": "Caterpillar Inc.",
@@ -311,8 +326,9 @@
         }
       ],
       "earliest": "2026-10-19",
-      "tokens": 2,
-      "chains": 6
+      "tokens": 3,
+      "chains": 10,
+      "issuer_halted": []
     },
     {
       "company": "Cerebras Systems Inc.",
@@ -330,8 +346,9 @@
         }
       ],
       "earliest": "2026-10-08",
-      "tokens": 4,
-      "chains": 6
+      "tokens": 5,
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "Cisco Systems, Inc.",
@@ -349,8 +366,9 @@
         }
       ],
       "earliest": "2026-10-23",
-      "tokens": 6,
-      "chains": 9
+      "tokens": 5,
+      "chains": 13,
+      "issuer_halted": []
     },
     {
       "company": "CoreWeave, Inc.",
@@ -368,8 +386,9 @@
         }
       ],
       "earliest": "2026-10-15",
-      "tokens": 5,
-      "chains": 8
+      "tokens": 6,
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "Corning Incorporated",
@@ -387,8 +406,9 @@
         }
       ],
       "earliest": "2026-10-30",
-      "tokens": 4,
-      "chains": 6
+      "tokens": 5,
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "Costco Wholesale Corporation",
@@ -406,8 +426,9 @@
         }
       ],
       "earliest": "2026-10-30",
-      "tokens": 4,
-      "chains": 8
+      "tokens": 5,
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "CrowdStrike Holdings, Inc.",
@@ -426,7 +447,8 @@
       ],
       "earliest": "2026-10-30",
       "tokens": 5,
-      "chains": 6
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "Dell Technologies Inc.",
@@ -445,7 +467,8 @@
       ],
       "earliest": "2026-10-27",
       "tokens": 5,
-      "chains": 8
+      "chains": 10,
+      "issuer_halted": []
     },
     {
       "company": "Eli Lilly and Company",
@@ -464,7 +487,8 @@
       ],
       "earliest": "2026-10-28",
       "tokens": 8,
-      "chains": 10
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "GE Vernova Inc.",
@@ -483,7 +507,8 @@
       ],
       "earliest": "2026-11-03",
       "tokens": 5,
-      "chains": 8
+      "chains": 10,
+      "issuer_halted": []
     },
     {
       "company": "Hewlett Packard Enterprise Company",
@@ -501,8 +526,9 @@
         }
       ],
       "earliest": "2026-10-30",
-      "tokens": 4,
-      "chains": 6
+      "tokens": 5,
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "Intel Corporation",
@@ -521,7 +547,8 @@
       ],
       "earliest": "2026-10-26",
       "tokens": 10,
-      "chains": 11
+      "chains": 13,
+      "issuer_halted": []
     },
     {
       "company": "International Business Machines Corporation",
@@ -540,7 +567,8 @@
       ],
       "earliest": "2026-10-26",
       "tokens": 7,
-      "chains": 9
+      "chains": 13,
+      "issuer_halted": []
     },
     {
       "company": "Intuit Inc.",
@@ -558,8 +586,9 @@
         }
       ],
       "earliest": "2026-10-23",
-      "tokens": 3,
-      "chains": 6
+      "tokens": 4,
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "IonQ, Inc.",
@@ -577,8 +606,9 @@
         }
       ],
       "earliest": "2026-10-26",
-      "tokens": 5,
-      "chains": 9
+      "tokens": 6,
+      "chains": 13,
+      "issuer_halted": []
     },
     {
       "company": "IREN Limited",
@@ -597,7 +627,8 @@
       ],
       "earliest": "2026-10-30",
       "tokens": 5,
-      "chains": 8
+      "chains": 7,
+      "issuer_halted": []
     },
     {
       "company": "JPMorgan Chase & Co.",
@@ -616,7 +647,8 @@
       ],
       "earliest": "2026-10-27",
       "tokens": 6,
-      "chains": 10
+      "chains": 13,
+      "issuer_halted": []
     },
     {
       "company": "Lam Research Corporation",
@@ -634,8 +666,9 @@
         }
       ],
       "earliest": "2026-11-02",
-      "tokens": 3,
-      "chains": 6
+      "tokens": 4,
+      "chains": 10,
+      "issuer_halted": []
     },
     {
       "company": "Marvell Technology, Inc.",
@@ -653,8 +686,9 @@
         }
       ],
       "earliest": "2026-10-23",
-      "tokens": 9,
-      "chains": 9
+      "tokens": 8,
+      "chains": 13,
+      "issuer_halted": []
     },
     {
       "company": "McDonald’s Corporation",
@@ -673,7 +707,8 @@
       ],
       "earliest": "2026-10-19",
       "tokens": 5,
-      "chains": 7
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "Micron Technology, Inc.",
@@ -692,7 +727,8 @@
       ],
       "earliest": "2026-10-30",
       "tokens": 7,
-      "chains": 10
+      "chains": 13,
+      "issuer_halted": []
     },
     {
       "company": "Microsoft Corporation",
@@ -710,8 +746,11 @@
         }
       ],
       "earliest": "2026-10-19",
-      "tokens": 10,
-      "chains": 15
+      "tokens": 9,
+      "chains": 15,
+      "issuer_halted": [
+        "bmsft"
+      ]
     },
     {
       "company": "Moderna, Inc.",
@@ -730,7 +769,8 @@
       ],
       "earliest": "2026-10-23",
       "tokens": 8,
-      "chains": 14
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "Nebius Group N.V.",
@@ -748,8 +788,9 @@
         }
       ],
       "earliest": "2026-11-04",
-      "tokens": 5,
-      "chains": 8
+      "tokens": 4,
+      "chains": 6,
+      "issuer_halted": []
     },
     {
       "company": "Netflix, Inc.",
@@ -768,7 +809,8 @@
       ],
       "earliest": "2026-11-02",
       "tokens": 7,
-      "chains": 9
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "NIKE, Inc.",
@@ -786,8 +828,9 @@
         }
       ],
       "earliest": "2026-10-30",
-      "tokens": 5,
-      "chains": 7
+      "tokens": 6,
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "NVIDIA Corporation",
@@ -806,7 +849,8 @@
       ],
       "earliest": "2026-10-30",
       "tokens": 12,
-      "chains": 18
+      "chains": 16,
+      "issuer_halted": []
     },
     {
       "company": "Oracle Corporation",
@@ -825,7 +869,8 @@
       ],
       "earliest": "2026-10-26",
       "tokens": 8,
-      "chains": 10
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "Palo Alto Networks, Inc.",
@@ -843,8 +888,9 @@
         }
       ],
       "earliest": "2026-10-30",
-      "tokens": 5,
-      "chains": 8
+      "tokens": 4,
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "Qualcomm Incorporated",
@@ -862,8 +908,9 @@
         }
       ],
       "earliest": "2026-10-19",
-      "tokens": 4,
-      "chains": 6
+      "tokens": 5,
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "Reddit, Inc.",
@@ -882,7 +929,8 @@
       ],
       "earliest": "2026-10-30",
       "tokens": 7,
-      "chains": 9
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "Rocket Lab Corporation",
@@ -901,7 +949,8 @@
       ],
       "earliest": "2026-10-08",
       "tokens": 8,
-      "chains": 9
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "Sandisk Corporation",
@@ -919,8 +968,9 @@
         }
       ],
       "earliest": "2026-10-27",
-      "tokens": 9,
-      "chains": 11
+      "tokens": 8,
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "ServiceNow, Inc.",
@@ -939,7 +989,8 @@
       ],
       "earliest": "2026-11-04",
       "tokens": 4,
-      "chains": 8
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "SoFi Technologies, Inc.",
@@ -957,8 +1008,9 @@
         }
       ],
       "earliest": "2026-11-02",
-      "tokens": 3,
-      "chains": 6
+      "tokens": 4,
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "Space Exploration Technologies Corp.",
@@ -977,7 +1029,8 @@
       ],
       "earliest": "2026-11-02",
       "tokens": 11,
-      "chains": 12
+      "chains": 13,
+      "issuer_halted": []
     },
     {
       "company": "Tesla, Inc.",
@@ -996,7 +1049,8 @@
       ],
       "earliest": "2026-11-02",
       "tokens": 11,
-      "chains": 15
+      "chains": 16,
+      "issuer_halted": []
     },
     {
       "company": "The Boeing Company",
@@ -1014,8 +1068,9 @@
         }
       ],
       "earliest": "2026-11-04",
-      "tokens": 4,
-      "chains": 8
+      "tokens": 5,
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "The Cigna Group",
@@ -1033,8 +1088,9 @@
         }
       ],
       "earliest": "2026-10-28",
-      "tokens": 1,
-      "chains": 2
+      "tokens": 2,
+      "chains": 10,
+      "issuer_halted": []
     },
     {
       "company": "The Coca-Cola Company",
@@ -1053,7 +1109,8 @@
       ],
       "earliest": "2026-10-27",
       "tokens": 4,
-      "chains": 9
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "The Home Depot, Inc.",
@@ -1072,7 +1129,10 @@
       ],
       "earliest": "2026-11-03",
       "tokens": 4,
-      "chains": 9
+      "chains": 11,
+      "issuer_halted": [
+        "hdon"
+      ]
     },
     {
       "company": "UnitedHealth Group Incorporated",
@@ -1091,7 +1151,8 @@
       ],
       "earliest": "2026-10-15",
       "tokens": 4,
-      "chains": 8
+      "chains": 11,
+      "issuer_halted": []
     },
     {
       "company": "USA Rare Earth, Inc.",
@@ -1109,8 +1170,9 @@
         }
       ],
       "earliest": "2026-10-30",
-      "tokens": 4,
-      "chains": 6
+      "tokens": 5,
+      "chains": 10,
+      "issuer_halted": []
     },
     {
       "company": "Verizon Communications Inc.",
@@ -1128,8 +1190,9 @@
         }
       ],
       "earliest": "2026-10-15",
-      "tokens": 2,
-      "chains": 5
+      "tokens": 3,
+      "chains": 10,
+      "issuer_halted": []
     },
     {
       "company": "Walmart Inc.",
@@ -1147,8 +1210,9 @@
         }
       ],
       "earliest": "2026-10-28",
-      "tokens": 4,
-      "chains": 9
+      "tokens": 5,
+      "chains": 12,
+      "issuer_halted": []
     },
     {
       "company": "Wells Fargo & Company",
@@ -1166,8 +1230,9 @@
         }
       ],
       "earliest": "2026-10-23",
-      "tokens": 2,
-      "chains": 5
+      "tokens": 3,
+      "chains": 10,
+      "issuer_halted": []
     },
     {
       "company": "Western Digital Corporation",
@@ -1186,7 +1251,8 @@
       ],
       "earliest": "2026-10-19",
       "tokens": 6,
-      "chains": 8
+      "chains": 13,
+      "issuer_halted": []
     }
   ]
 }
